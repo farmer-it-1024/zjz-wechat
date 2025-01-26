@@ -69,7 +69,7 @@ page {
 
 .save-btn {
   background: #8280FF;
-    border-radius: 40rpx;
+    border-radius: 30rpx;
     color: #fff;
     font-size: 30rpx;
     font-weight: 700;

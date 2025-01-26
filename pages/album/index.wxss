@@ -120,11 +120,11 @@ page {
     background-color: #8280FF;
     color: #fff;
     padding: 10rpx 20rpx;
-    border-radius: 30rpx;
+    border-radius: 10rpx;
     font-size: 24rpx;
     position: absolute;
     right: 30rpx;
-    bottom: 20rpx;
+    bottom: 30rpx;
     border: none;
     line-height: 1.5;
 }
@@ -133,11 +133,11 @@ page {
     background-color: #E8E8FF;
     color: #8280FF;
     padding: 10rpx 20rpx;
-    border-radius: 30rpx;
+    border-radius: 10rpx;
     font-size: 24rpx;
     position: absolute;
     right: 30rpx;
-    bottom: 90rpx; 
+    bottom: 130rpx; 
     border: none;
     line-height: 1.5;
 }
